@@ -10,7 +10,7 @@ Este repositorio contiene un script para monitorear y registrar el chat de una s
 ## Instrucciones
 
 1. **Instalación de Tampermonkey**:
-   - Descarga e instala la extensión Tampermonkey en tu navegador (disponible para Chrome, Firefox, Edge, etc.).
+   - Descarga e instala la extensión [Tampermonkey](https://www.tampermonkey.net/) en tu navegador (disponible para Chrome, Firefox, Edge, etc.).
    - **Activar el modo desarrollador**:
      - **Chrome**:
        1. Abre Chrome y ve a `chrome://extensions/`.
