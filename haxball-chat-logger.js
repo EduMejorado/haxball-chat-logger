@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Captura los mensajes de chat de Haxball, los agrupa y los envía como embed a un webhook de Discord cada 10 segundos.
-// @author       Tu Nombre
+// @author       EduMejorado
 // @match        https://*.haxball.com/*
 // @grant        GM_xmlhttpRequest
 // @run-at       document-end
