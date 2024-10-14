@@ -25,7 +25,7 @@ Este repositorio contiene un script para monitorear y registrar el chat de una s
 2. **Agregar el script en Tampermonkey**:
    - Abre Tampermonkey desde tu navegador.
    - Haz clic en **Crear un nuevo script**.
-   - Copia el contenido del archivo `haxball_chat_logger.js` en el editor y guarda los cambios.
+   - Copia el contenido del archivo [haxball-chat-logger.js](./haxball-chat-logger.js) en el editor y guarda los cambios.
 
 3. **Configurar el webhook de Discord**:
    - Abre Discord y ve al canal donde quieras recibir los mensajes.
@@ -55,7 +55,7 @@ _Cada mensaje enviado a Discord está encerrado en bloques de código para evita
 
 ## Autoría
 
-Todo el contenido de este script y del repositorio fue generado por [ChatGPT] en colaboración con el usuario. El usuario no se atribuye la creación original de este código.
+Todo el contenido de este script y del repositorio fue generado por [ChatGPT](https://chatgpt.com/) en colaboración con el usuario. El usuario no se atribuye la creación original de este código.
 
 ## Licencia
 
