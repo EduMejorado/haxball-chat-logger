@@ -1,6 +1,6 @@
 # Haxball Chat Logger
 
-Este repositorio contiene un script para monitorear y registrar el chat de una sala de Haxball, y enviarlo a un webhook de Discord en formato embed. El script está diseñado para ejecutarse mediante Tampermonkey y captura los mensajes de chat nuevos, evitando la duplicación de mensajes.
+Este repositorio contiene un script para monitorear y registrar el chat de una sala de Haxball, y enviarlo a un webhook de Discord en formato embed. El script está diseñado para ejecutarse mediante Tampermonkey.
 
 ## Requisitos
 
